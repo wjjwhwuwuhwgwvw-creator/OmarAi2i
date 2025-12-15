@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "phone": "212718938088",
+      "name": "Omar",
+      "createdAt": "2025-12-14T14:58:17.058Z",
+      "lastActive": "2025-12-14T18:07:52.028Z"
+    },
+    {
+      "phone": "212709815654",
+      "name": "hbhjjhjjgg",
+      "createdAt": "2025-12-14T15:14:46.597Z",
+      "lastActive": "2025-12-14T15:23:19.110Z"
+    },
+    {
+      "phone": "212608486103",
+      "name": "adambndeega",
+      "createdAt": "2025-12-15T09:31:22.659Z",
+      "lastActive": "2025-12-15T09:48:30.191Z"
+    }
+  ]
+}
